@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Exercice React création d'un [Chat](https://gourcmathis.github.io/chatty/) connecté à Firebase.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Suivez ce lien pour visualiser directement le site dpuis votre navigateur: [Chatty](https://gourcmathis.github.io/chatty/).
+Important: n'hésitez pas à créer deux comptes dans deux fenêtres séparées pour tester l'envoie de messages.
 
 ## Available Scripts
 
